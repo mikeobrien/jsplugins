@@ -1,30 +1,38 @@
 JavaScript Plugins
 =============
 
-# backbone.lazy
+## Backbone
+
+#### backbone.lazy
 
 ...
 
-# bootstrap.dialog
+## Twitter Bootstrap
+
+### bootstrap.dialog
 
 ...
 
-# bootstrap.validate
+### bootstrap.validate
 
 ...
 
-# jquery.ajax-dateparser
+## jQuery
+
+### jquery.ajax-dateparser
 
 ...
 
-# jquery.cache-ajax-deferreds
+### jquery.cache-ajax-deferreds
 
 ...
 
-# postal.ajaax-events
+## postal.js
+
+### postal.ajaax-events
 
 ...
 
-# postal.window-scroll-events
+### postal.window-scroll-events
 
 ...
