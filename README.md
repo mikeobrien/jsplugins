@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mauris diam, 
 
 ## jQuery
 
-### jquery.ajax-dateparser
+### jquery.ajax-date-parser
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mauris diam, semper at rhoncus scelerisque, hendrerit nec odio. Duis fringilla pellentesque diam eu mollis. Aliquam vel ornare arcu. Nam in tincidunt nibh.
 
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mauris diam, 
 
 ## postal.js
 
-### postal.ajaax-events
+### postal.ajax-events
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mauris diam, semper at rhoncus scelerisque, hendrerit nec odio. Duis fringilla pellentesque diam eu mollis. Aliquam vel ornare arcu. Nam in tincidunt nibh.
 
