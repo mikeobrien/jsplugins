@@ -1,4 +1,4 @@
-//     backbone.lazy.js 0.1.0
+//     backbone.lazy.js 0.1.1
 //     (c) 2012 Mike O'Brien
 //     May be freely distributed under the MIT license.
 //     https://github.com/mikeobrien/jsplugins
